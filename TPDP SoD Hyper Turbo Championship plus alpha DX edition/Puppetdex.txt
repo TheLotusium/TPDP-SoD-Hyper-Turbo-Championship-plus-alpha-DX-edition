@@ -1,0 +1,2000 @@
+Normal Ami (80 Cost) Found: Route outside of Bamboo Forest of The Lost
+Type: Sound
+Ability: First Hit or Warning Shot
+
+HP - 30
+Fo. Atk - 60
+Fo. Def - 45
+Sp. Atk - 30
+Sp. Def - 45
+Speed - 60
+BST: 270
+
+Moves:
+- Yin Energy
+- Shout
+- Howling Voice
+- Parasite
+- Sun's Protection
+- Ambient
+- Encourage
+
+Speed Ami (80 Cost)
+Type: Nature/Sound
+Ability: First Hit or Reckless
+
+HP - 70
+Fo. Atk - 100
+Fo. Def - 75
+Sp. Atk - 50
+Sp. Def - 75
+Speed - 100
+BST: 470
+
+Moves:
+- Yin Energy
+- Shout
+- Howling Voice
+- Parasite
+- Sun's Protection
+- Ambient
+- Encourage
+- Power Drain
+- Bewitching Pollen
+- Dancing Rain
+- Strenuous Stance
+- High Tone Crush
+- Peach Thorn Arrow
+- Detonation Burst
+- Luminous Flux
+- Full Metal Crash
+- Weather [Calm]
+- Prank
+Skill Cards:
+- Grass Javelin
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Blow From Calamity
+- Voice of Famine
+- Tumble Plant
+- Rocky Barrage
+- Clearing Mist
+- Air Stamp
+- Thieving Wind
+- Sunbeam Dance
+- Evil Crushing Arrow
+- Changeling
+- Flower of Hell
+- Detonation Burst
+- Heavenly Blessing
+- Earthly Blessing
+- Rainbow Flowers
+- Pollen Mist
+- Lightning Speed
+- Ultra High Tone
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Field Barrier
+- Lucky Rainbow
+- Flash Bullet
+- Shark Trade
+- Continue
+- Upbeat
+- Claim
+- High Tone Crush
+- Overrun
+- Heavenly Influence
+- Earthyl Influence
+- Limitless Realm
+- Signs
+
+Assist Ami (80 Cost)
+Type: Wind/Sound
+Ability: Phelgmatic or Warning Shot
+
+HP - 80
+Fo. Atk - 50
+Fo. Def - 80
+Sp. Atk - 50
+Sp. Def - 120
+Speed - 90
+BST: 470
+
+Moves:
+- Yin Energy
+- Shout
+- Howling Voice
+- Parasite
+- Sun's Protection
+- Ambient
+- Encourage
+- Wind Wave
+- Perch
+- Great Tornado
+- Primal Noise
+- Atomic Energy
+- Danmaku Orchestra
+- Macroburst
+- Wind God's Grace
+- Ruinous Voice
+- Merry Dance
+- Phase Inversion
+- Weather [Calm]
+Skill Cards:
+- Wind Javelin
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Blow From Calamity
+- Voice of Famine
+- Clearing Mist
+- Air Stamp
+- Thieving Wind
+- Sunbeam Dance
+- Changeling
+- St Elmo's Fire
+- Heavenly Blessing
+- Earthly Blessing
+- Flashover
+- Lazy Mist
+- Pollen Mist
+- Jewelry Storm
+- Smash Spin
+- Lightning Speed
+- Star Flare
+- Ultra High Tone
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Drought
+- Squall
+- Field Barrier
+- Field Protect
+- Lucky Rainbow
+- Continue
+- Upbeat
+- Claim
+- Flying Frenzy
+- High Tone Crush
+- Spinning Air
+- Shocking Wave
+- Heavenly Influence
+- Earthly Influence
+- Passing Breeze
+- Limitless Realm
+- Signs
+
+Extra Ami (80 Cost)
+Type: Sound/Illusion
+Ability: Recital Form or Some Guts
+
+HP - 90
+Fo. Atk - 50
+Fo. Def - 70
+Sp. Atk - 120
+Sp. Def - 50
+Speed - 90
+BST: 470
+
+Moves:
+- Yin Energy
+- Shout
+- Howling Voice
+- Parasite
+- Sun's Protection
+- Ambient
+- Encourage
+- Imaginary Friend
+- Amnesia
+- Primal Noise
+- Brave Song
+- Unknown Flare
+- Ultra High Tone
+- Catastrophe
+- Danmaku Orchestra
+- Danmaku Dance
+- Lightning Speed
+- Fairy Dance
+Skill Cards:
+- Spark Javelin
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Blow From Calamity
+- Tumble Plant
+- Impact Rebellion
+- Clearing Mist
+- Sunbeam dance
+- Flower of Hell
+- Flashover
+- Lazy Mist
+- Pollen Mist
+- Jewelry Storm
+- Lightning Speed
+- Unknwon Flare
+- Gravity Blast
+- Ultra High Tone
+- Supernatural Border
+- Magic Barrier
+- Unconscious Min
+- Confine
+- Field Barrier
+- Lucky Rainbow
+- Shark Trade
+- Continue
+- Upbeat
+- Claim
+- High Tone Crush
+- Overrun
+- Brave Burst
+- Catastrophe
+- Heavenly Influence
+- Earthly Influence
+- Passing Breeze
+- Limitless Realm
+- Signs
+
+Normal Rakuki (80 Cost) Found: Bamboo Forest of The Lost
+Type: Void/Wind
+Ability: Sniper or Imposing Stance
+
+HP - 50
+Fo. Atk - 30
+Fo. Def - 40
+Sp. Atk - 60
+Sp. Def - 40
+Speed - 60
+BST: 280
+
+Moves:
+- Yang Energy
+- Favorable Wind
+- Scatter Beam
+- Night Wind
+- Skanda
+- Westerlies
+- Volley
+
+Power Rakuki (80 Cost)
+Type: Wind/Electric
+Ability: Gale Form or Sniper
+
+HP - 80
+Fo. Atk - 50
+Fo. Def - 70
+Sp. Atk - 110
+Sp. Def - 80
+Speed - 90
+BST: 480
+
+Moves:
+- Yang Energy
+- Favorable Wind
+- Scatter Beam
+- Night Wind
+- Skanda
+- Westerlies
+- Volley
+- Energy Bolt
+- Dancing Wind
+- Wind Wave
+- Crossbow Assault
+- Thunder Force
+- Macroburst
+- Thunderlord's Scorn
+- Danmaku Dance
+- Sharp Wind
+- Thunder Veil
+Skill Cards:
+- Wind Javelin
+- Spark Javelin
+- Overskill
+- Frenzied Joururi
+- Blow From Calamity
+- Clearing Mist
+- Air Stamp
+- Thieving Wind
+- Plasma Ball
+- Tri-Effect
+- Heavenly Blessing
+- Earthly Blessing
+- Lazy Mist
+- Jewelry Storm
+- Chrome Ray
+- Smash Spin
+- Thunderlord's Scorn
+- Lightning Speed
+- Thunder Force
+- Unknown Flare
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Field Protect
+- Flash Bullet
+- Continue
+- Upbeat
+- Claim
+- Overrun
+- Spinning Air
+- Shocking Wave
+- Heavenly Influence
+- Earthly Influence
+- Passing Breeze
+- Limitless Realm
+- Signs
+
+Defense Rakuki (80 Cost)
+Type: Void/Wind
+Ability: In Sync or Imposing Stance
+
+HP - 95
+Fo. Atk - 70
+Fo. Def - 95
+Sp. Atk - 50
+Sp. Def - 105
+Speed - 65
+BST: 480
+
+Moves:
+- Yang Energy
+- Favorable Wind
+- Scatter Beam
+- Night Wind
+- Skanda
+- Westerlies
+- Volley
+- Wind Javelin
+- Perch
+- Piercing Stab
+- Focused Movement
+- Solar Eclipse
+- Gensokyo Typhoon
+- Speedy Barrage
+- Weather [Calm]
+- Stealth Trap
+- Resourcefulness
+Skill Cards:
+- Wind Javelin
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Blow from Calamity
+- Voice of Famine
+- Impact Rebellion
+- Clearing Mist
+- Gensokyo Typhoon
+- Air Stamp
+- Thieving Wind
+- Sunbeam Dance
+- Changeling
+- St. Elmo's Fire
+- Smash Spin
+- Supernatual Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Drought
+- Squall
+- Field Barrier
+- Field Protect
+- Lucky Rainbow
+- Shark Trade
+- Continue
+- Upbeat
+- Claim
+- Flying Frenzy
+- Overrun
+- Shocking Wave
+- Heavenly Influence
+- Earthly Influence
+- Limitless Realm
+- Signs
+
+Extra Rakuki (80 Cost)
+Type: Nether/Illusion
+Ability: Precise Aim or Telescopic
+
+HP - 80
+Fo. Atk - 100
+Fo. Def - 70
+Sp. Atk - 50
+Sp. Def - 60
+Speed - 120
+BST: 480
+
+Moves:
+- Yang Energy
+- Favorable Wind
+- Scatter Beam
+- Night Wind
+- Skanda
+- Westerlies
+- Volley
+- Soul Hound
+- Invisible Heart
+- Life Burst
+- Specter's Waltz
+- Mirage Edge
+- Hallucination
+- Stalk and Murder
+- Depressing Rain
+- Wind Train
+- Reversal Sword
+Skill Cards:
+- Wind Javelin
+- Light Javelin
+- Shadow Javelin
+- Overskill
+- Frenzied Joururi
+- Blow From Calamity
+- Rising Sun
+- Rocky Barrage
+- Clearing Mist
+- Thieving Wind
+- Changeling
+- Unfettered Soul
+- Break Shot
+- Flower of Hell
+- St. Elmo's Fire
+- Heavenly Blessing
+- Earthly Blessing
+- Ghost Wave
+- Love or Pain
+- Unknown Flare
+- Gravity Blast
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Field Barrier
+- Lucky Rainbow
+- Flash Bullet
+- Behind You!
+- Continue
+- Upbeat
+- Claim
+- Overrun
+- Catastrophe
+- Poltergeist
+- Shocking Wave
+- Heavenly Influence
+- Earthly Influence
+- Limitless Realm
+- Signs
+
+Normal Koreirei (80 Cost) Found: Bamboo Forest of The Lost
+Type: Light/Fire
+Ability: Benefit of Fire or Southern Expanse
+
+HP - 50
+Fo. Atk - 60
+Fo. Def - 40
+Sp. Atk - 20
+Sp. Def - 40
+Speed - 65
+BST: 275
+
+Moves:
+- Yin Energy
+- Gathered Stars
+- Fireball
+- Angel Ladder
+- Raid
+- Flame Pillar
+- Sunbeam Dance
+
+Speed Koreirei (80 Cost)
+Type: Light/Fire
+Ability: Sanguine or Benefit of Fire
+
+HP - 75
+Fo. Atk - 105
+Fo. Def - 70
+Sp. Atk - 30
+Sp. Def - 80
+Speed - 115
+BST: 475
+
+Moves:
+- Yin Energy
+- Gathered Stars
+- Fireball
+- Angel Ladder
+- Raid
+- Flame Pillar
+- Sunbeam Dance
+- Light Javelin
+- Exploding Blaze
+- Rocky Barrage
+- Mad Rush Stance
+- Burn Strike
+- Purgatory Flicker
+- Luminous Flux
+- Weather [Aurora]
+- Will o Wisp
+- Sun's Protection
+- Inspiration
+Skill Cards:
+- Fire Javelin
+- Wind Javelin
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Blow from Calamity
+- Rising Sun
+- Burn Strike
+- Rocky Barrage
+- Clearing Mist
+- Thieving Wind
+- Sunbeam Dance
+- Evil-Crushing Arrow
+- Heavenly Blessing
+- Earthly Blessing
+- Flashover
+- Inferno
+- Lightning Speed
+- Star Flare
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Thermit
+- Field Protect
+- Lucky Rainbow
+- Flash Bullet
+- Continue
+- Upbeat
+- Claim
+- Backdraft
+- Will o Wisp
+- Heavenly Influence
+- Earthly Influence
+- Limitless Realm
+- Signs
+
+
+Assist Koreirei (80 Cost)
+Type: Fire/Fighting
+Ability: Battle Mania or Restraint
+
+HP - 75
+Fo. Atk - 55
+Fo. Def - 60
+Sp. Atk - 85
+Sp. Def - 90
+Speed - 110
+BST: 475
+
+Moves:
+- Yin Energy
+- Gathered Stars
+- Fireball
+- Angel Ladder
+- Raid
+- Flame Pillar
+- Sunbeam Dance
+- Twin Thrust
+- Fire Wall
+- First Aid
+- Fairy Dance
+- Brave Burst
+- Backdraft
+- Fire-Dragon Spiral
+- Decrescendo
+- Inspiration
+- Cheer
+- Toxic Spiral
+Skill Cards:
+- Fire Javelin
+- Wind Javelin
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Blow From Calamity
+- Rising Sun
+- Burn Strike
+- Voice of Famine
+- Spiked Stones
+- Impact Rebellion
+- Sunbeam Dance
+- Changeling
+- Heavenly Blessing
+- Earthly Blessing
+- Flashover
+- Inferno
+- Pollen Mist
+- Smash Spin
+- Star Flare
+- Ghost Wave
+- GIGANTIC
+- Supernatural Border
+- Magic Barrier
+- Unconscous Mind
+- Thermit
+- Drought
+- Squall
+- Field Barrier
+- Lucky Rainbow
+- Behind You!
+- Continue
+- Upbeat
+- Claim
+- Backdraft
+- Heavenly Influence
+- Earthly Influence
+- Limitless Realm
+- Signs
+
+Extra Koreirei (80 Cost)
+Type: Earth/Light
+Ability: Deploy Smoke or Positive
+
+HP - 100
+Fo. Atk - 30
+Fo. Def - 80
+Sp. Atk - 110
+Sp. Def - 60
+Speed - 95
+BST: 475
+
+Moves:
+- Yin Energy
+- Gathered Stars
+- Fireball
+- Angel Ladder
+- Raid
+- Flame Pillar
+- Sunbeam Dance
+- Landslide
+- Sorrowful Tune
+- Metal Needle
+- Brave Song
+- Moonbow
+- Waves of Earth
+- Arclight
+- Earthen Feast
+- Stealth Trap
+- First Aid
+Skill Card
+- Fire Javelin
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Blow from Calamity
+- Rocky Barrage
+- Spiked Stones
+- Clearing Mist
+- Sunbeam Dance
+- Tri-Effect
+- Heavenly Blessing
+- Earthly Blessing
+- Flashover
+- Jewelry Storm
+- Smash Spin
+- Lightning Speed
+- Star Flare
+- Ultra High Tone
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Drought
+- Field Barrier
+- Field Protect
+- Lucky Rainbow
+- Continue
+- Upbeat
+- Claim
+- Overrun
+- Shocking Wave
+- Heavenly Influence
+- Earthly Influence
+- Destruction Rift
+- Limitless Realm
+- Signs
+
+Normal Seiryuu (90 Cost) Found: Forest of Magic
+Type: Nature
+Ability: Warning Shot or Jamming
+
+HP - 50
+Fo. Atk - 30
+Fo. Def - 45
+Sp. Atk - 70
+Sp. Def - 50
+Speed - 40
+BST: 285
+
+Moves:
+- Yang Energy
+- Root Injection
+- Scatter Beans
+- Parasite
+- Drain Seed
+- Terrain [Seiryu]
+- Foutain of Life
+
+Power Seiryuu (90 Cost)
+Type: Nature
+Ability: Eastern Expanse or Warning Shot
+
+HP - 100
+Fo. Atk - 50
+Fo. Def - 60
+Sp. Atk - 105
+Sp. Def - 90
+Speed - 80
+BST: 485
+
+Moves:
+- Yang Energy
+- Root Injection
+- Scatter Beans
+- Parasite
+- Drain Seed
+- Terrain [Seiryu]
+- Foutain of Life
+- Energy Absorb
+- Grace of Mana
+- Dancing Wind
+- Pollen Mist
+- Fairy Dance
+- Sakura Blizzard
+- Petal Dance
+- Off-Season Bloom
+- Butterfly's Flit
+- White Lily Dance
+- Mudslide
+Skill Cards:
+- Grass Javelin
+- Overskill
+- Frenzied Joururi
+- Blow from Calamity
+- Voice of Famine
+- Tumble Plant
+- Clearing Mist
+- Changeling
+- Tri-Effect
+- Heavenly Blessing
+- Earthly Blessing
+- Lazy Mist
+- Rainbow Flowers
+- Pollen Mist
+- Smash Spin
+- Lightning Speed
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Field Protect
+- Lucky Rainbow
+- Continue
+- Upbeat
+- Claim
+- Overrun
+- Heavenly Influence
+- Earthly Influence
+- Destruction Rift
+- Limitless Realm
+- Signs
+ 
+
+Defense Seiryuu (90 Cost)
+Type: Nature/Fire
+Ability: Jamming or Seitei's Wood
+
+HP - 100
+Fo. Atk - 30
+Fo. Def - 110
+Sp. Atk - 85
+Sp. Def - 110 
+Speed - 50
+BST: 485
+
+Moves:
+- Yang Energy
+- Root Injection
+- Scatter Beans
+- Parasite
+- Drain Seed
+- Terrain [Seiryu]
+- Foutain of Life
+- Fire Wall
+- Energy Absorb
+- Grace of Mana
+- Forest Therapy
+- Fire-Dragon Spiral
+- Pollen Mist
+- Sakura Blizzard
+- Will o Wisp
+- Bewitching Pollen
+- Thorned Ivy
+Skill Cards:
+- Fire Javelin
+- Grass Javelin
+- Overskill
+- Frenzied Joururi
+- Blow from Calamity
+- Rising Sun
+- Voice of Famine
+- Tumble Plant
+- Impact Rebellion
+- Air Stamp
+- Heavenly Blessing
+- Earthly Blessing
+- Flashover
+- Inferno
+- Rainbow Flowers
+- Pollen Mist
+- Smash Spin
+- Love or Pain
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Thermit
+- Drought
+- Field Protect
+- Lucky Rainbow
+- Continue
+- Upbeat
+- Claim
+- Backdraft
+- Will o Wisp
+- Heavenly Influence
+- Earthly Influence
+- Destruction Rift
+- Limitless Realm
+- Signs
+
+Extra Seiryuu (90 Cost)
+Type: Nature/Steel
+Ability: Morale Boost
+
+HP - 60
+Fo. Atk - 155
+Fo. Def - 120
+Sp. Atk - 30
+Sp. Def - 10
+Speed - 110
+BST: 485
+
+Moves:
+- Yang Energy
+- Root Injection
+- Scatter Beans
+- Parasite
+- Drain Seed
+- Terrain [Seiryu]
+- Foutain of Life
+- Hammer Throw
+- Grass Javelin
+- Force Shield
+- Overtake Strike
+- Natural Beauty
+- Reversal Sword
+- Mud Dango
+- Night Step
+- Mirage Edge
+- Smash Spin
+- Strenuous Stance
+Skill Cards:
+- Grass Javelin
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Blow from Calamity
+- Tumble Plant
+- Impact Rebellion
+- Sunbeam Dance
+- Lost Crisis
+- Heavenly Blessing
+- Earthly Blessing
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Lucky Rainbow
+- Continue
+- Upbeat
+- Claim
+- Heavenly Influence
+- Earthly Influence
+- Limitless Realm
+- Signs
+
+Normal Kage (90 Cost) Found: Route outside Bamboo Forest of The Lost or Kaian Passage
+Type: Illusion
+Ability: Projection
+
+HP - 65
+Fo. Atk - 20
+Fo. Def - 50
+Sp. Atk - 40
+Sp. Def - 50
+Speed - 60
+BST: 285
+
+Moves:
+- Yang Energy
+- Heat Haze
+- Mysterious Flare
+- Volley
+- Projection
+- Moon's Reflection
+- Cross Counter
+
+Power Kage (90 Cost)
+Type: Light/Fighting
+Ability: Sand Devil or Economist
+
+HP - 90
+Fo. Atk - 130
+Fo. Def - 70
+Sp. Atk - 40
+Sp. Def - 70
+Speed - 90
+BST: 490
+
+Moves:
+- Yang Energy
+- Heat Haze
+- Mysterious Flare
+- Volley
+- Projection
+- Moon's Reflection
+- Cross Counter
+- Life Burst
+- Light Javelin
+- Hachiman's Blessing
+- Over Ray
+- Dancing Rain
+- Alluring Maze
+- Reckless Dive
+- Luminous Flux
+- Lightning Speed
+- Flash Bullet
+- Dark Power
+Skill Cards:
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Blow From Calamity
+- Shooting Press
+- Impact Rebellion
+- Sunbeam Dance
+- Vacuum Rupture
+- Meteor Impact
+- Break Shot
+- St. Elmo's
+- Tri-Effect
+- Heavenly Blessing
+- Earthly Blessing
+- Smash Spin
+- Lightning Speed
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Drought
+- Squall
+- Field Barrier
+- Field Protect
+- Shark Trade
+- Continue
+- Upbeat
+- Claim
+- Stealth Kill
+- Overrun
+- Heavenly Influence
+- Earthly Influence
+- Limitless Realm
+- Signs
+
+
+Speed Kage (90 Cost)
+Type: Wind/Illusion
+Ability: Charge! or Common Senseless
+
+HP - 105
+Fo. Atk - 30
+Fo. Def - 65
+Sp. Atk - 110
+Sp. Def - 65
+Speed - 115
+BST: 490
+
+Moves:
+- Yang Energy
+- Heat Haze
+- Mysterious Flare
+- Volley
+- Projection
+- Moon's Reflection
+- Cross Counter
+- Wind Wave
+- Mysterious Flare
+- Luscious Whisper
+- Inferno
+- Thunderlord's Scorn
+- Macroburst
+- Brave Song
+- Eye of Calamity
+- Invoke Diety
+- Doppelganger
+Skill Cards:
+- Aqua Javelin
+- Wind Javelin
+- Overskill
+- Frenzied Joururi
+- Blow From Calamity
+- Voice of Famine
+- Air Stamp
+- Sunbeam Dance
+- Tri-effect
+- Heavenly Blessing
+- Inferno
+- Pollen Mist
+- Smash Spin
+- Thunderlord's Scorn
+- Unknown Flare
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Field Barrier
+- Field Protect
+- Lucky Rainbow
+- Shark Trade
+- Continue
+- Upbeat
+- Claim
+- Overrun
+- Spinning Air
+- Catastrophe
+- Passing Breeze
+- Limitless Realm
+- Signs
+
+Extra Kage (90 Cost)
+Type: Illusion
+Ability: Projection or Vision Bonus
+
+HP - 80
+Fo. Atk - 40
+Fo. Def - 90
+Sp. Atk - 80
+Sp. Def - 90
+Speed - 110
+BST: 490
+
+Moves:
+- Yang Energy
+- Heat Haze
+- Mysterious Wave
+- Volley
+- Projection
+- Moon's Reflection
+- Cross Counter
+- Unknown Flare
+- Recollection
+- Mysterious Flare
+- Doppelganger
+- Possession
+- Revolving Illusions
+- Catastrophe
+- Near Death Event
+- Glamor Pandemic
+Skill Cards:
+- Overskill
+- Frenzied Joururi
+- Blow from Calamity
+- Impact Rebellion
+- Clearing Mist
+- Changeling
+- Lost Crisis
+- Tri-Effect
+- Heavenly Influence
+- Earthly Influence
+- Flashover
+- Smash Spin
+- Unknown Flare
+- Gravity Blast
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Drought
+- Field Barrier
+- Field Protect
+- Lucky Rainbow
+- Continue
+- Upbeat
+- Claim
+- Catastrophe
+- Shocking Wave
+- Heavenly Influence
+- Earthly Influence
+- Passing Breeze
+- Limitless Realm
+- Signs
+
+Normal Rakukun (100 Cost) Found: Bamboo Forest of The Lost
+Type: Void/Fire
+Ability: Divine Protection or Deflective
+
+HP - 50
+Fo. Atk - 30
+Fo. Def - 40
+Sp. Atk - 65
+Sp. Def - 40
+Speed - 70
+BST: 295
+
+Moves:
+- Yang Energy
+- Rub Burn
+- Scatter Beam
+- Fiery Game
+- Astrology
+- Fire Wall
+- Invoke Diety
+
+Speed Rakukun (100 Cost)
+Type: Illusion/Fire
+Ability: Divine Protection or Unwavering Heart
+
+HP - 95
+Fo. Atk - 55
+Fo. Def - 60
+Sp. Atk - 115
+Sp. Def - 70
+Speed - 120
+BST: 515
+
+Moves:
+- Yang Energy
+- Rub Burn
+- Scatter Beam
+- Fiery Game
+- Astrology
+- Fire Wall
+- Invoke Diety
+- Mysterious Flare
+- Flashover
+- Star Flare
+- Moon's Protection
+- Catastrophe
+- Inferno
+- Phoenix Waltz
+- Terrain [Suzaku]
+- Weather [Aurora]
+- Sharp Wind
+Skill Cards:
+- Fire Javelin
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Rising Sun
+- Burn Strike
+- Clearing Mist
+- Lost Crisis
+- St. Elmo's Fire
+- Heavenly Influence
+- Earthly Influence
+- Flashover
+- Inferno
+- Pollen Mist
+- Thunder Force
+- Star Flare
+- Unknown Flare
+- Gravity Blast
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Thermit
+- Field Protect
+- Lucky Rainbow
+- Continue
+- Upbeat
+- Claim
+- Backdraft
+- Passing Breeze
+- Limitless Realm
+- Signs 
+
+Assist Rakukun (100 Cost)
+Type: Void/Fire
+Ability: Southern Expense or Deflective
+
+HP - 105
+Fo. Atk - 50
+Fo. Def - 120
+Sp. Atk - 80 
+Sp. Def - 90
+Speed - 70
+BST: 515
+
+Moves:
+- Yang Energy
+- Rub Burn
+- Scatter Beam
+- Fiery Game
+- Astrology
+- Fire Wall
+- Invoke Diety
+- Crossbow Assault
+- First Aid
+- Flashover
+- Love or Pain
+- Danmaku Dance
+- Inferno
+- Will o' Wisp
+- Terrain [Suzaku]
+- Solar Eclipse
+- Divine Punishment
+- White Lily Dance
+Skill Cards:
+- Fire Javelin
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Rising Sun
+- Burn Strike
+- Impact Rebellion
+- Clearing Mist
+- Tri-Effect
+- Heavenly Influence
+- Earthly Influence
+- Flashover
+- Inferno
+- Smash Spin
+- Lightning Speed
+- Star Flare
+- Love or Pain
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Thermit
+- Drought
+- Field Barrier
+- Field Protect
+- Lucky Rainbow
+- Continue
+- Upbeat
+- Claim
+- Backdraft
+- Will o' Wisp
+- Destruction Rift
+- Limitless Realm
+- Signs
+
+Extra Rakukun (100 Cost)
+Type: Fire/Warped
+Ability: Mind's Eye or Stubborn
+
+HP - 90
+Fo. Atk - 130
+Fo. Def - 80 
+Sp. Atk - 60
+Sp. Def - 70
+Speed - 85
+BST: 515
+
+Moves:
+- Yang Energy
+- Rub Burn
+- Scatter Beam
+- Fiery Game
+- Astrology
+- Fire Wall
+- Invoke Diety
+- Time Screw
+- Exploding Blaze
+- Skanda
+- Piercing Stab
+- Burn Strike
+- Distortion Bomb
+- Holy Flare
+- Overdrive
+- Dark Power
+- Trickster
+- Honest Man's Lie
+-Skill List:
+- Fire Javelin
+- Wind Javelin
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Blow From Calamity
+- Rising Sun
+- Burn Strike
+- Impact Rebellion
+- Clearing Mist
+- Air Stamp
+- Sunbeam Dance
+- Lost Crisis
+- St. Elmo's Fire
+- Flashover
+- Inferno
+- Lightning Speed
+- Star Flare
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Thermit
+- Field Barrier
+- Lucky Rainbow
+- Flash Bullet
+- Shark Trade
+- Continue
+- Upbeat
+- Claim
+- Distortion Bomb
+- Stealth Kill
+- Will o' Wisp
+- Heavenly Influence
+- Earthly Influence
+- Limitless Realm
+- Signs
+
+
+Normal Tensei (110 Cost) Found: Moriya Shrine
+Type: Light/Void
+Ability: Negative Aura or Lucky
+
+HP - 65
+Fo. Atk - 30
+Fo. Def - 60
+Sp. Atk - 40
+Sp. Def - 65
+Speed - 55
+BST: 315
+
+Moves:
+- Yang Energy
+- Good Luck
+- Angel Ladder
+- Scatter Beam
+- Invoke Deity
+- Power Spot
+
+
+Defense Tensei (110 Cost)
+Type: Light/Void
+Ability: Negative Aura or Karmic Retribution
+
+HP - 100
+Fo. Atk - 50
+Fo. Def - 105
+Sp. Atk - 80
+Sp. Def - 105
+Speed - 90
+BST: 530
+
+Moves:
+- Yang Energy
+- Good Luck
+- Angel Ladder
+- Scatter Beam
+- Invoke Deity
+- Power Spot
+- Backup Plan
+- Star Flare
+- Astrology
+- Solar Eclipse
+- Moonbow
+- Danmaku Dance
+- Divine Punishment
+- Weather [Aurora]
+- Ruinous Voice
+
+Skill Cards:
+- Light Javelin
+- Water Javelin
+- Overskill
+- Frenzied Joururi
+- Sunbeam Dance
+- Evil Crushing Arrow
+- Tri-Effect
+- Heavenly Blessing
+- Earthly Blessing
+- Lazy Mist
+- Rainbow Flowers
+- Smash Spin
+- Star Flare
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Drought
+- Lucky Rainbow
+- Flash Bullet
+- Continue
+- Upbeat
+- Claim
+- Overrun
+- Limitless Realm
+- Signs
+
+Assist Tensei (110 Cost)
+Type: Light/Water
+Ability: Lucky or Karmic Retribution
+
+HP - 110
+Fo. Atk - 90
+Fo. Def - 70
+Sp. Atk - 90
+Sp. Def - 110
+Speed - 60
+BST: 530
+
+Moves:
+- Yang Energy
+- Good Luck
+- Angel Ladder
+- Scatter Beam
+- Invoke Deity
+- Power Spot
+- Tri-Effect
+- Star Flare
+- Lazy Mist
+- Moon's Protection
+- Evil Crushing Arrow
+- Veil Of Water
+- Soul Corruption
+- Astrology
+- Unknown Flare
+- Holy Flare
+- Ebb Tide
+- Frost Edge
+- Ice Coffin
+
+Skill Cards:
+- Aqua Javelin
+- Wind Javelin
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Impact Rebellion
+- Clearing Mist
+- Sunbeam Dance
+- St. Elmo's Fire
+- Tri-Effect
+- Heavenly Influence
+- Lazy Mist
+- Star Flare
+- Ghost Wave
+- Unknown Flare
+- Drought
+- Field Barrier
+- Lucky Rainbow
+- Continue
+- Upbeat
+- Claim
+- Earthly Influence
+- Destruction Rift
+- Limitless Realm
+- Signs
+
+Extra Tensei (110 Cost)
+Type: Dark/Fire
+Ability: Full Power or Healing Power
+
+HP - 95
+Fo. Atk - 130
+Fo. Def - 65
+Sp. Atk - 65
+Sp. Def - 65
+Speed - 110
+BST: 530
+
+Moves:
+- Yang Energy
+- Good Luck
+- Angel Ladder
+- Scatter Beam
+- Invoke Deity
+- Power Spot
+- Exploding Blaze
+- Blackout
+- Sun's Protection
+- Dark Sphere
+- Burn Strike
+- Will o' Wisp
+- Purgatory Flicker
+- Night Step
+- Changeling
+- Panic Call
+- Over Ray
+
+Skill Cards:
+- Fire Javelin
+- Wind Javelin
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Rising Sun
+- Burn Strike
+- Spiked Stones
+- Clearing Mist
+- Sunbeam Dance
+- Changeling
+- Lost Crisis
+- Flashover
+- Eye of Laplace
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Thermit
+- Flash Bullet
+- Shark Trade
+- Continue
+- Upbeat
+- Claim
+- Backdraft
+- Will O' Wisp
+- Heavenly Influence
+- Earth Influence
+- Limitless Realm
+- Signs
+
+Normal Kirigakure (110 Cost) Found: Hakurei Mountain
+Type: Water/Nature
+Grace of Water or Good Management
+
+HP - 50
+Fo. Atk - 20
+Fo. Def - 60
+Sp. Atk - 60
+Sp. Def - 60
+Speed - 65
+BST: 315
+
+Moves:
+- Yang Energy
+- Quagmire
+- Slime Shot
+- Seasonal Flowers
+- Forest Therapy
+- Hornet's Flit
+- Skanda
+
+Power Kirigakure (110 Cost)
+Type: Water/Earth
+Ability: Grace of Water or Wisdom Eye
+
+HP - 80
+Fo. Atk - 60
+Fo. Def - 100
+Sp. Atk - 100
+Sp. Def - 100
+Speed - 85
+BST: 525
+
+Moves:
+- Yang Energy
+- Quagmire
+- Slime Shot
+- Seasonal Flowers
+- Forest Therapy
+- Hornet's Flit
+- Skanda
+- Unstable Horizon
+- Mine Trap
+- Grace of Mana
+- Ice Age
+- Brave Song
+- Waves of Earth
+- Cold Rain
+- Last Slash
+- Earthen Feast
+- Racing Earth
+Skill Cards:
+- Fire Javelin
+- Aqua Javelin
+- Overskill
+- Frenzied Joururi
+- Waterfall Drop
+- Rocky Barrage
+- Impact Rebellion
+- Clearing Mist
+- Heavenly Blessing
+- Earthly Blessing
+- Cold Rain
+- Lazy Mist
+- Jewelry Storm
+- Star Flare
+- Supernatural Border
+- Magic Barrier
+- Unconcious Mind
+- Confine
+- Drought
+- Field Barrier
+- Field Protect
+- Lucky Rainbow
+- Continue
+- Upbeat
+- Claim
+- Frozen Prison
+- Destruction Rift
+- Limitless Realm
+- Signs
+
+Speed Kirigakure (110 Cost)
+Type: Nature/Wind
+Ability: Nimble or Good Management
+
+HP - 60
+Fo. Atk - 105
+Fo. Def - 85
+Sp. Atk - 10
+Sp. Def - 145
+Speed - 120
+BST: 525
+
+Moves:
+- Yang Energy
+- Quagmire
+- Slime Shot
+- Seasonal Flowers
+- Forest Therapy
+- Hornet's Flit
+- Skanda
+- Power Drain
+- Thorned Ivy
+- Wind Javelin
+- Squall
+- Voice of Famine
+- Foehn Winds
+- Peach Thorn Arrow
+- Focused Stance
+- Samurai Edge
+Skill Cards:
+- Fire Javelin
+- Grass Javelin
+- Wind Javelin
+- Overskill
+- Frenzied Joururi
+- Blow From Calamity
+- Rising Sun
+- Voice of Famine
+- Tumble Plant
+- Rocky Barrage
+- Impact Rebellion
+- Clearing Mist
+- Gensokyo Typhoon
+- Air Stamp
+- Thieving Wind
+- Changeling
+- Pollen Mist
+- Smash Spin
+- Star Flare
+- Supernatural Border
+- Magic Barrier
+- Unconcious Mind
+- Confine
+- Squall
+- Lucky Rainbow
+- Flash Bullet
+- Continue
+- Upbeat
+- Claim
+- Flying Frenzy
+- Heavenly Influence
+- Earthly Influence
+- Passing Breeze
+- Limitless Realm
+- Signs
+
+Extra Kirigakure (110 Cost)
+Type: Void/Warped
+Ability: Intuition or Natural Form
+
+HP - 80
+Fo. Atk - 50
+Fo. Def - 135
+Sp. Atk - 105
+Sp. Def - 50
+Speed - 105
+BST: 525
+
+Moves:
+- Yang Energy
+- Quagmire
+- Slime Shot
+- Seasonal Flowers
+- Forest Therapy
+- Hornet's Flit
+- Skanda
+- Field Break
+- Tri-Effect
+- Spiral Strike
+- Crossbow Assault
+- Power Spot
+- Impulse
+- Speedy Barrage
+- Stealth Trap
+- Soul Corruption
+- Butterfly's Flit
+- White Lily Dance
+- Weather [Sunshower]
+- Moon's Protection
+Skill Cards:
+- Aqua Javelin
+- Grass Javelin
+- Wind Javelin
+- Light Javelin
+- Overskill
+- Frenzied Joururi
+- Blow form Calamity
+- Voice of Famine
+- Clearing Mist
+- Tri-Effect
+- Heavenly Blessing
+- Earthly Blessing
+- Flashover
+- Lazy Mist
+- Pollen Mist
+- Smash Spin
+- Lightning Speed
+- Star Flare
+- Ghost Wave
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Drought
+- Lucky Rainbow
+- Continue
+- Upbeat
+- Claim
+- Dense Fog Bloom
+- Impulse
+- Field Break
+- Overrun
+- Passing Breeze
+- Limitless Realm
+- Signs
+
+Normal Mitori (110 Cost) Found: Road to Chireiden
+Type: Water/Nether
+Ability: Stubborn or Hate Incarnate
+
+HP - 55
+Fo. Atk - 70
+Fo. Def - 60
+Sp. Atk - 30
+Sp. Def - 55
+Speed - 60
+BST: 330
+
+Moves: 
+- Yin Energy
+- Quagmire
+- Water Ball
+- Soul Hound
+- Jinx
+- Unfettered Soul
+- Frost Edge
+
+Defense Mitori (110 Cost)
+Type: Steel/Nether
+Ability: Negative Aura or Restraint
+
+HP - 115
+Fo. Atk - 95
+Fo. Def - 50
+Sp. Atk - 70
+Sp. Def - 145
+Speed - 60
+BST: 535
+
+Moves: 
+- Yin Energy
+- Quagmire
+- Water Ball
+- Soul Hound
+- Jinx
+- Unfettered Soul
+- Frost Edge
+- Hammer Throw
+- Shadow Javelin
+- Curse Reversal
+- Shadow Bomb
+- Armor Pierce
+- Overtake Strike
+- Midnight Specter
+- Iron Wall Stance
+- Eye of Calamity
+- First Aid
+- Call of the Dead
+- Stealth Trap
+Skill Cards:
+- Aqua Javelin
+- Shadow Javelin
+- Overskill
+- Frenzied Joururi
+- Blow From Calamity
+- Voice of Famine
+- Impact Rebellion
+- Clearing Mist
+- Air Stamp
+- Plasma Ball
+- Changeling
+- Lost Crisis
+- Unfettered Soul
+- Heavenly Blessing
+- Earthly Blessing
+- Chrome Ray
+- Smash Spin
+- Ghost Wave
+- Love or Pain
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Drought
+- Field Protect
+- Lucky Rainbow
+- Shark Trade
+- Behind You!
+- Continue
+- Upbeat
+- Claim
+- Poltergeist
+- Heavenly Influence
+- Earthly Influence
+- Limitless Realm
+- Signs
+
+Power Mitori (110 cost)
+Type: Water/Nether
+Ability: Midnight Form or Hate Incarnate
+
+HP - 105
+Fo. Atk - 130
+Fo. Def - 90
+Sp. Atk - 30
+Sp. Def - 95
+Speed - 85
+BST: 535
+
+Moves: 
+- Yin Energy
+- Quagmire
+- Water Ball
+- Soul Hound
+- Jinx
+- Unfettered Soul
+- Frost Edge
+- Flash FLood
+- Shadow Javelin
+- Raid
+- Aura Drain
+- Waterfall Drop
+- Mignight Specter
+- High Tide
+- Spirit Rush
+- Last Resort
+- Racing Earth
+- Bind Trap
+Skill Cards:
+- Aqua Javelin
+- Shadow Javelin
+- Overskill
+- Frenzied Joururi
+- Blow from Calamity
+- Waterfall Drop
+- Rocky Barrage
+- Clearing Mist
+- Thieving Wind
+- Changeling
+- Lost Crisis
+- Unfettered Soul
+- Poisoned Arrow
+- Heavenly Blessing
+- Earthly Blessing
+- Lazy Mist
+- Lightning Speed
+- Ghost Wave
+- Love or Pain
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Drought
+- Field Barrier
+- Lucky Rainbow
+- Behind You!
+- Continue
+- Upbeat
+- Claim
+- Stealth Kill
+- Flying Frenzy
+- Lightning Cut
+- Overrun
+- Frozen Prison
+- Poltergeist
+- Heavenly Influence
+- Earthly Influence
+- Limitless Realm
+- Signs
+
+Extra Mitori (110 Cost)
+Type: Electric/Dark
+Ability: Master's Defense or Collectomaniac
+
+HP - 75
+Fo. Atk - 105
+Fo. Def - 85
+Sp. Atk - 130
+Sp. Def - 10
+Speed - 130
+BST: 535
+
+Moves: 
+- Yin Energy
+- Quagmire
+- Water Ball
+- Soul Hound
+- Jinx
+- Unfettered Soul
+- Frost Edge
+- Charge Thief
+- Eye of Laplace
+- Field Break
+- Infinite Darkness
+- Thunder Force
+- Dark Sweets
+- Thunderlord's Scorn
+- Lightning Speed
+- Changeling
+- Divine Thunder
+- Darkness Dance
+Skill Cards:
+- Aqua Javelin
+- Spark Javelin
+- Shadow Javelin
+- Overskill
+- Frenzied Joururi
+- Blow from Calamity
+- Clearing Mist
+- Plasma Ball
+- Changeling
+- Lost Crisis
+- Unfettered Soul
+- Poisoned Arrow
+- Tri-Effect
+- Heavenly Blessing
+- Earthly Blessing
+- Cold Rain
+- Lazy Mist
+- Pollen Mist
+- Smash Spin
+- Thunderlord's Scorn
+- Lightning Speed
+- Thunder Force
+- Ghost Wave
+- Love or Pain
+- Supernatural Border
+- Magic Barrier
+- Unconscious Mind
+- Confine
+- Drought
+- Lucky Rainbow
+- Shark Trade
+- Sweet Nightmare
+- Continue
+- Upbeat
+- Claim
+- Lightning Cut
+- Dark Sweets
+- Poltergeist
+- Shocking Wave
+- Heavenly Influence
+- Earthly Influence
+- Limitless Realm
+- Signs
